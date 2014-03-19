@@ -1,1 +1,1 @@
-In this matlab project , given 2 images are sending to project as input, and this program rotate (left,right,horizontal and vertical) and resize (as 1/2 ratio).. In this program matlab functions are not included. (Means that, written without imresize and imrotate)
+In this matlab project , given 2 images are sending to project as input, and this program rotate (left,right,horizontal and vertical) and resize (as 1/2 ratio) the images.. In this program matlab functions are not included. (Means that, written without imresize and imrotate)
